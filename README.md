@@ -33,7 +33,7 @@ Me siga nas minhas redes sociais 🇧🇷📲
     <img align= alt="oraclesql" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
     <img align= alt"azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img align= alt="linuxredhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-    <inm align= alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img align= alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div><br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.

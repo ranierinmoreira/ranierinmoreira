@@ -21,7 +21,7 @@ Me siga nas minhas redes sociais 🇧🇷📲
 
 ![Ránieri GitHub stats](https://github-readme-stats.vercel.app/api?username=ranierinmoreira&show_icons=true&theme=onedark&include_all_commits=true&count_priovate=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-lags/?username=ranierinmoreira&layout=compact&langs_count=16&themeonedark)](https://github.com/ranierinmoreira/github-redme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranierinmoreira&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia 📊
 

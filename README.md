@@ -19,7 +19,7 @@ Me siga nas minhas redes sociais 🇧🇷📲
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranieri-nascimento/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eoRanieri)
 
-![Ránieri GitHub stats](https://github-readme-stats.vercel.app/api?username=ranierinmoreira&show_icons=true&theme=onedark&include_all_commits=true&count_priovate=true)
+![Ránieri GitHub stats](https://github-readme-stats.vercel.app/apiusername=ranierinmoreira&show_icons=true&theme=onedark&include_all_commits=true&count_priovate=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranierinmoreira&layout=compact&langs_count=theme=onedark)
 
 ## Tecnologias que eu uso no meu dia 📊
